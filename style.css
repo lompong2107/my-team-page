@@ -22,6 +22,10 @@
     width: 50%;
 }
 
+.text-header {
+    margin-top: 0px;
+}
+
 .right {
     font-family: 'Poppins';
     float: left;
@@ -31,6 +35,7 @@
 .title {
     font-weight: bold;
     font-size: 18px;
+    margin-top: 5px;
 }
 
 .text {
