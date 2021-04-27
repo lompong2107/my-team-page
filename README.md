@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-team-page-rho.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/OXbGFVpGZQhVpPGkAOZg">
       Solution
     </a>
     <span> | </span>
@@ -33,8 +33,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/lompong2107/my-team-page/main/screencapture-my-team-page-rho-vercel-app-2021-04-27-18_06_09.png)
+![screenshot](https://raw.githubusercontent.com/lompong2107/my-team-page/main/screencapture-my-team-page-rho-vercel-app-2021-04-27-18_06_30.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
